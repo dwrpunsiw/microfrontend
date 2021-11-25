@@ -1,0 +1,34 @@
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+node_modules
+/node_modules
+npm-debug.log.*
+
+######################
+# Visual Studio Code
+######################
+.vscode/
+
+######################
+# ESLint
+######################
+.eslintcache
+/.idea/
+
+######################
+# Cache
+######################
+.cache
+.cache/
+/.cache
+
+######################
+# Dist
+######################
+dist
+dist/
+/dist
